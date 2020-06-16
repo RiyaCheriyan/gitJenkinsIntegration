@@ -1,1 +1,1 @@
-echo Starting Git Jenkins Intewgration
+echo Starting Git Jenkins Integration
